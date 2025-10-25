@@ -56,6 +56,7 @@ const Parameter SPEED_TARGET = {0x0A70, DataType::FLOAT, 4};
 const Parameter POSITION_SPEED_LIMIT = {0x1770, DataType::FLOAT, 4};
 const Parameter POSITION_TARGET = {0x1670, DataType::FLOAT, 4};
 const Parameter MECH_POS = {0x1970, DataType::FLOAT, 4};
+const Parameter MECH_VEL = {0x1B70, DataType::FLOAT, 4};
 const Parameter SPEED_ACCELERATION = {0x2270, DataType::FLOAT, 4};
 const Parameter POSITION_03_SPEED = {0x2470, DataType::FLOAT, 4};
 const Parameter POSITION_ACCELERATION = {0x2570, DataType::FLOAT, 4};
